@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ahmed.indara@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://indarafata.github.io/ahmed-portfolio/index.html](www.linkedin.com/in/ahmed-indarafata)
+- 👨‍💻 All of my projects are available at [https://indarafata.github.io/ahmed-portfolio/index.html](https://indarafata.github.io/ahmed-portfolio/index.html)
 
 - 📄 Know about my experiences [www.linkedin.com/in/ahmed-indarafata](www.linkedin.com/in/ahmed-indarafata)
 
