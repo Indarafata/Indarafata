@@ -9,6 +9,8 @@
 - 💬 Ask me about **Android, Flutter**
 
 - 📫 How to reach me **ahmed.indara@gmail.com**
+- 
+- 👨‍💻 All of my projects are available at [https://indarafata.github.io/ahmed-portfolio/index.html](www.linkedin.com/in/ahmed-indarafata)
 
 - 📄 Know about my experiences [www.linkedin.com/in/ahmed-indarafata](www.linkedin.com/in/ahmed-indarafata)
 
