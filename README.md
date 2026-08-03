@@ -75,8 +75,8 @@
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/key-security.png" alt="jwt" width="40" height="40"/>
   </a>
-  <!-- OAuth -->
+<!-- OAuth -->
   <a href="https://oauth.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/shield-cloud-security.png" alt="oauth" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" alt="oauth" width="40" height="40"/>
   </a>
 </p>
