@@ -6,20 +6,7 @@
 
 - 💬 Ask me about **Python, Flask/FastAPI, SQL & Database Management, System Integration**
 
-- 📫 How to reach me **ahmed.indara@gmail.com**
-
-- 👨‍💻 All of my projects are available at [https://indarafata.github.io/ahmed-portfolio/index.html](https://indarafata.github.io/ahmed-portfolio/index.html)
-
-- 📄 Know about my experiences [www.linkedin.com/in/ahmed-indarafata](www.linkedin.com/in/ahmed-indarafata)
-
 - ⚡ Fun fact **Sometimes, I find a solution for my bug while I'm sleeping**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ahmed-indarafata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmed-indarafata" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22454221/ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22454221/ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/ahhmed_rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahhmed_rf" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
